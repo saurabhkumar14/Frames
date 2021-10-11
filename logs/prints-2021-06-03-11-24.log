@@ -1,0 +1,6 @@
+11:10:16.006 [TestNG-tests-4] INFO  Base.TableValidation - Test5.TableValidation.Browser is Closed
+11:24:15.138 [TestNG-tests-2] INFO  Base.WindowHandleTest - Browser is Closed
+11:24:16.599 [TestNG-tests-4] INFO  Base.TableValidation - Driver is Initialized
+11:24:16.723 [TestNG-tests-4] INFO  Base.TableValidation - Test5.TableValidation.Browser is Maximized
+11:24:19.192 [TestNG-tests-4] INFO  Base.TableValidation - Test5.TableValidation.URL Hit
+11:24:19.768 [TestNG-tests-4] INFO  Base.TableValidation - Test5.TableValidation.Assertion is passed : Login page opened successfully .

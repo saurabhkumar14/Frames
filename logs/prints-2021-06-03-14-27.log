@@ -1,0 +1,6 @@
+14:26:30.094 [TestNG-tests-4] INFO  Base.TableValidation - Test5.TableValidation.Browser is Maximized
+14:26:32.574 [TestNG-tests-4] INFO  Base.TableValidation - Test5.TableValidation.URL Hit
+14:26:36.873 [TestNG-tests-4] INFO  Base.TableValidation - Test5.TableValidation.Browser is Closed
+14:27:19.602 [TestNG-tests-4] INFO  Base.TableValidation - Driver is Initialized
+14:27:19.727 [TestNG-tests-4] INFO  Base.TableValidation - Test5.TableValidation.Browser is Maximized
+14:27:22.194 [TestNG-tests-4] INFO  Base.TableValidation - Test5.TableValidation.URL Hit
